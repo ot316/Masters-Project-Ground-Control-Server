@@ -1,1 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2020-05-23T10:09:30.780Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="vrGm-XZZ2wBO1g12fMWX" version="13.1.3" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VrZduI4EP0aHuFgm/VxoJNM75lDpzP9qNjCViKrPLIc8Hx9a/MGBEgaQprTL4ldWizq1r1Vkt3ypvHyiqMk+gwBpi23Gyxb3ruW646HA/lXGXJj6I9GxhByEhiTUxlm5H9sjV1rzUiA00ZHAUAFSZpGHxjDvmjYEOewaHabA20+NUEhXjPMfETXrbckEJGxjtxhZf8bkzAqnuwMxqYlRkVn+0vSCAWwqJm8i5Y35QDCXMXLKabKd4Vfbt/nt/TTw+Dqwz/pf+hm8vHbl+9tM9nlc4aUP4FjJg47tWemfkQ0s/66STFXcEQAqcRNohVhBSOGUMUH8TUuGGkctZsSZWFB2RU4CQmTFxR8JAioyzmH2MxynwLrELAuFXmBE4eMBVit1Wl5k0VEBJ4lyFetC/lgaYtETG3zHJiwoeZIHCYhRamKk668TgWHhxJr1bsETjXv6Uvr80fMBV7WIsn69gpDjAXPZRfb6tkosTQpgmZRxZxT2KJavI2sDdkwD8uJKyjlhUVzM7LzWTtnt9MUhde33o2gk/v2uO2uIbvmchxIpthb4CKCEBiiF5V1UoGiXFf1+QSQWOfeYyFyiwXKZEg0gMJLIv5Vwzt9e/ej1vJuaWfWN/mLEEoh4z7eHeIC8RCLLQ6z8ymnbMWbYyqj+rEpL5vgs0OvgcjfUcaJ020GijNYiQDzg+yolSAol/HyuHB6v0scSPh5Xhukbn/U26ph+u7X42dbXNTjZ/N87qED6Jf4XwhYxf8pAA8IQ0LLunSPWuwykWjiwKzAHaBYKS27S9W/D7OvX5R2E6q6EjUqRY+6s5b+gKQP8t9dXkp/ppPHeSu74+0p7cOjSftvI+WvT+Gt1NyZA3qnovDWZdc4vIGS0kup5qSuua5zCSw7dw66+3LQOxYHe2vQfNMK6ANnuoCGeamKskROCAtrhXOERAGfT1WdLQpNXSmhY8Qf9HS6r9xJMUHmRMHdlOqzB3x8atHtDU4iuoWAtrudbtdraGin54x36Ki+u8acSB/IMHoJZDs1c/RKdXO/GRHeKrWfqJv/4hzltW6J6pBuec5w83Mu9+w/dFZCzSzgoDW8+6eGf14NP9ozlotDqzdSw4+eSDLyAQFO9VFMIKnNUgIs3ZFzTL3vI+pncum6YLCHMsImrtru4MyTizNucra3b3LpHaui7/8h9PM25Qcn6mZ1d1eyjrt6WmMk5XinNd0nJGDZKg5dc7MTT6gkYIz14u+wWGDMtpST9fPaqgIti1dTmcpn+kYqzpz/Ts/bTwDGx6ouizA7jQA4NfpXYrBLAJrFaP+VBWDflF686HkjKd15KqebozO7pZeJORHVQRthSSbqqV15SL/icqequYM7ZasJYVsLYOSr6yQCYV7fnD2VS4E+2YsXb12yT8HtA/OtoNFuvo3fFN+Kda/xbYpkiKUEsecX0TLXEn1+wzQ7FyhvF7vKboATzAIzCFiryVmOU6CZfSXaSMEoxlw94PLr97OjqNf3Ov0mSUf7cdQpqHN4ko7PkqQH597mqrhXvEQsRXf0qlWxu47e+4q1AQemX3EtIKOKY3jpY51MY7Qkcab2vIgKIrIAax6qLpxDmX5FxGFxhmfo/SZqznBPGq7ueQ53pvrU7qaU1Jb9zsgiIwU0Qol926HFV4mmU5dwRLVOm0M/o+VZQs2XLGrAnVZws0+qnbgXQXPmmJdMPUJ5JG+rj6EM1asvyryLnw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-05-23T10:10:20.249Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="5ts1Kn6D8jEiT-E8_IP8" version="13.1.3" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="976" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="User chooses the geographic area to map and the origin location from geojson.io" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="30" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fS-ynWCsagPW3UtlBj-9-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="fS-ynWCsagPW3UtlBj-9-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="160" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fS-ynWCsagPW3UtlBj-9-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fS-ynWCsagPW3UtlBj-9-1" target="WIyWlLk6GJQsqaUBKTNV-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fS-ynWCsagPW3UtlBj-9-1" value="Coordinates are exported as&amp;nbsp;JSON file is saved to disk by the user" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="30" y="130" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fS-ynWCsagPW3UtlBj-9-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-12" target="fS-ynWCsagPW3UtlBj-9-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="JSON file is parsed in Python" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=1;comic=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="30" y="230" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fS-ynWCsagPW3UtlBj-9-4" value="The corner of the mapping area that is closest to the origin marker is identified&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="30" y="290" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fS-ynWCsagPW3UtlBj-9-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.419;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="fS-ynWCsagPW3UtlBj-9-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="330" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="170" y="330" />
+              <mxPoint x="170" y="71" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fS-ynWCsagPW3UtlBj-9-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fS-ynWCsagPW3UtlBj-9-8" target="fS-ynWCsagPW3UtlBj-9-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fS-ynWCsagPW3UtlBj-9-8" value="The geodesic dimensions of the mapping area are calculated from the coordinates&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="190" y="40" width="120" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="fS-ynWCsagPW3UtlBj-9-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fS-ynWCsagPW3UtlBj-9-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fS-ynWCsagPW3UtlBj-9-10" value="The x and y displacement between the origin marker and the closest corner is calucated" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="190" y="143" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fS-ynWCsagPW3UtlBj-9-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fS-ynWCsagPW3UtlBj-9-18" target="fS-ynWCsagPW3UtlBj-9-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fS-ynWCsagPW3UtlBj-9-18" value="The user is prompted to input the map scale, i.e. the width of each photograph" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="190" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fS-ynWCsagPW3UtlBj-9-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fS-ynWCsagPW3UtlBj-9-27" target="fS-ynWCsagPW3UtlBj-9-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fS-ynWCsagPW3UtlBj-9-27" value="The Cartesian dimensions of the mapping area are split into way-points depending on the map resolution and the camera FOV" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="353.5" y="28" width="120" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="fS-ynWCsagPW3UtlBj-9-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fS-ynWCsagPW3UtlBj-9-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="268" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fS-ynWCsagPW3UtlBj-9-29" value="If the drones would exceed maximum altitude an error is thrown" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="354" y="178" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fS-ynWCsagPW3UtlBj-9-40" value="The way-point grid is reshaped into a 1 dimensional array of tuples to be sent to the drones" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="354" y="268" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
