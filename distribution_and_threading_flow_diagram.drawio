@@ -1,1 +1,71 @@
-<mxfile host="app.diagrams.net" modified="2020-05-23T13:21:31.336Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="wERx1xMTn6L9KXNbV7W2" version="13.1.3" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7Zpbd5s4EIB/jc8+pYeLTfBj4yZuut09bZ3G2770yCBAa5CIEMHur1/duBnXSxJftt4+hKDRSEgz+piR8MCeJKspBWn0B/FhPLAMfzWw3wwsa3zp8KsQrJVgZI+VIKTIVyKzFszQd6iFhpbmyIdZS5EREjOUtoUewRh6rCUDlJKirRaQuP3UFISwI5h5IO5K58hnkZK61mUtfwtRGJVPNh09vwSUynomWQR8UjRE9vXAnlBCmLpLVhMYC9uVdpnfrufx+6UzffcxewCfr36/+/P+QnV285Qm1RQoxOzZXb8NLiaGN8/m1/H4/v6rH3z6Niy7fgRxru2l58rWpQGhz+2pi4SyiIQEg/i6ll5RkmMfiscYvFTrvCck5UKTC/+GjK314gA5I1wUsSTWtT3npwebkZx6cIeerZcZoCFkOyav/Som2Fgr2npTSBLI6JorUBgDhh7bCwrodRlWerXt+Y02/xO8bHdccRdBLpijGyTaYgZpADwhQpkwA5+bYEksVYIRI1Te+bDjwdo/wthFhBicpUCasODMt30REMy0o0xujKswBlmmXZsxSpYVRkK7YsJ4shsfIWVwtdPwZa2jPaVfQUNdLGqezRLSqMFyqfcSV21dOF1X/VzUHIcG3fQD4Uu3dmb1OtXONMcbXlLY6lYbjqqG8XzfGT/ADENWELqs6PIAj0e+GBcWVyaVbj8Ige9TmGVQqPmQ8aCl9KjQAGkKpVs1moD/xShjZw+lafSk8nIPVEIyelgnr+9upp/eBRMSfqSfH0rPHhdCuELsL9H81UiXvjRq3qx0z7KwLguYT7fRSBS/NOvqZrK0brlyA9A9vgGGPeOmc6QwuWuQDX5vQ0wke4rRqfQpv5lwaCgRHc4g5Qv7t0wTfO4kjo8YH7eSaHZsfEQSzQaHNZX/RmKLwxrLE5Ho9CTRPSWJTpfEQFGoIqG8BrCAIjEtwDoVIT2TGgCL2EkJhlnFLVx5PKo25aoHLo9zFVEDSpJKP0FZhgg+e5wtpyfO7qFwPkl2e06B1e2Js2mdkme3y3MiDleE5xHzIoRDCR+FwK/SZD4nmf6eCMIAxfGExHzvKx5r+wC6gVc1a9Q4ngsXwQGxta3TbVK3Umv/ovZl1JpWX2yHp8S2HGZnR8tD7kWqN99qC1oeHIUJt5CMqLxW7FJFOM7yxYVQEyqBPExqBukzC7KbtJrGuB+uo0PhOvyVM78Q177bV/Ok+1ezu4GdEW8pD3M9kiQ5Rh4fhkhsFa4LtZ11QCKwwosslcY0pEbKnc7/mZbNu51s0VKnV6AASIKNMH+GCuT6gwt/0v8Ab7dnNN48jNyb261udnUK4PfNXN+Navm57fjfWnaOe3PvClpclAQijBgCPDbC+iQ4QFRG1DJqlroJoEt1HKxCrYy+CsKUY1FXyS0wN1ueKJ3qtBjDokqzX/1XEuvA9aC3NbFeuKPh6JAsD93nJdbVgfTeQ/XoZ8+szROH6vJtcPjMWjZ9TSlYNxTKg6gffaIaDdsrzjY2vqxv6NvuTn1+o0aw1+9YpQ07aX9KSUhB0oz6QU7FqdyZB/3NF0X1E5QDbMF5sf7hh3Jp/esZ+/of</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-05-25T16:30:36.514Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="V5x9TOI3BPvDxu0vyuQf" version="13.1.3" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="976" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="Hf-C0cWsWEl9VVZdfR_4-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="Hf-C0cWsWEl9VVZdfR_4-0" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="The WiFi interface is set to monitor mode" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hf-C0cWsWEl9VVZdfR_4-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Hf-C0cWsWEl9VVZdfR_4-0" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hf-C0cWsWEl9VVZdfR_4-0" value="The network is scanned and the IP addresses detected are appended to a list" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="100" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5qymATFGRJfCogQrUq-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Hf-C0cWsWEl9VVZdfR_4-4" target="Hf-C0cWsWEl9VVZdfR_4-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hf-C0cWsWEl9VVZdfR_4-4" value="Ignore the Ground Control Server&#39;s IP" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5qymATFGRJfCogQrUq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Hf-C0cWsWEl9VVZdfR_4-6" target="Hf-C0cWsWEl9VVZdfR_4-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hf-C0cWsWEl9VVZdfR_4-6" value="If there are fewer waypoints than drones the excess drones are excluded from the mission" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5qymATFGRJfCogQrUq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Hf-C0cWsWEl9VVZdfR_4-8" target="Hf-C0cWsWEl9VVZdfR_4-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hf-C0cWsWEl9VVZdfR_4-8" value="Image stitching thread is started" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5qymATFGRJfCogQrUq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Hf-C0cWsWEl9VVZdfR_4-12" target="Hf-C0cWsWEl9VVZdfR_4-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hf-C0cWsWEl9VVZdfR_4-12" value="The way-point list is segmented into n sub-lists for n drones" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="109" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5qymATFGRJfCogQrUq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Hf-C0cWsWEl9VVZdfR_4-14" target="Hf-C0cWsWEl9VVZdfR_4-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hf-C0cWsWEl9VVZdfR_4-14" value="Socket communication is bound&amp;nbsp; on port 1234,&amp;nbsp; and awaits incoming connections" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="180" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Hf-C0cWsWEl9VVZdfR_4-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Hf-C0cWsWEl9VVZdfR_4-16" target="Hf-C0cWsWEl9VVZdfR_4-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hf-C0cWsWEl9VVZdfR_4-16" value="If a connection is initialised the first sub-list is marked as sent and passed as an argument to a new thread." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="480" y="40" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="eo5qymATFGRJfCogQrUq-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Hf-C0cWsWEl9VVZdfR_4-27" target="Hf-C0cWsWEl9VVZdfR_4-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="300" />
+              <mxPoint x="380" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hf-C0cWsWEl9VVZdfR_4-27" value="The program awaits further connections" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="480" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
